@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "アプリデモ店",
+    "slug": "salonapp13820",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "jp.epark.salonapp13820",
+      "config": {
+        "usesNonExemptEncryption": false,
+        "googleMapsApiKey": "AIzaSyDWWYiuOS3g28Cb4iiA0AhS0i_7Ju9opx8"
+      },
+      "infoPlist": {
+        "LSApplicationQueriesSchemes": ["googlechromes", "comgooglemaps"]
+      },
+      "buildNumber": "1"
+    },
+    "android": {
+      "package": "jp.epark.salonapp13820",
+      "versionCode": 1,
+      "googleServicesFile": "./google-services.json",
+      "softwareKeyboardLayoutMode": "pan",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDWWYiuOS3g28Cb4iiA0AhS0i_7Ju9opx8"
+        }
+      },
+      "useNextNotificationsApi": true
+    },
+    "extra": {
+      "apiUrl": "https://dev.peakmanager.com",
+      "companyId": 13820,
+      "themeColor": "#82AD3F",
+      "headerColorWhite": true
+    },
+    "notification": {
+      "icon": "./assets/icon.png"
+    }
+  }
+}
