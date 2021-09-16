@@ -41,7 +41,7 @@
     "extra": {
       "apiUrl": "https://dev.peakmanager.com",
       "companyId": 10306,
-      "themeColor": "#4CAF50"
+      "themeColor": "#FF0000"
     },
     "notification": {
       "icon": "./assets/icon.png"
