@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "アプリデモ店（10828)",
-    "slug": "salonapp10828",
+    "name": "アプリデモ店（13828)",
+    "slug": "salonapp13828",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,7 +19,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "jp.epark.salonapp10828",
+      "bundleIdentifier": "jp.epark.salonapp13828",
       "config": {
         "usesNonExemptEncryption": false,
         "googleMapsApiKey": "AIzaSyB6rJOxJ5TvRMqXcZCv49Oy8EScg6nfKVQ"
