@@ -1,0 +1,66 @@
+{
+  "expo": {
+    "name": "リフレッシュハンズデモ",
+    "slug": "salonapp13825",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#3AACAD"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "enabled": false
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "jp.epark.salonapp13825",
+      "config": {
+        "usesNonExemptEncryption": false,
+        "googleMapsApiKey": "AIzaSyB6rJOxJ5TvRMqXcZCv49Oy8EScg6nfKVQ"
+      },
+      "infoPlist": {
+        "LSApplicationQueriesSchemes": [
+          "googlechromes",
+          "comgooglemaps"
+        ],
+        "CFBundleLocalizations": [
+          "ja"
+        ],
+        "CFBundleDevelopmentRegion": "ja",
+        "CFBundleAllowMixedLocalizations": true
+      },
+      "buildNumber": "11"
+    },
+    "android": {
+      "package": "jp.epark.salonapp13825",
+      "versionCode": 11,
+      "googleServicesFile": "./google-services.json",
+      "softwareKeyboardLayoutMode": "pan",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyB6rJOxJ5TvRMqXcZCv49Oy8EScg6nfKVQ"
+        }
+      },
+      "useNextNotificationsApi": true
+    },
+    "locales": {
+      "ja": "./languages/ja.json"
+    },
+    "extra": {
+      "apiUrl": "https://dev.peakmanager.com",
+      "companyId": 13825,
+      "themeColor": "#3AACAD",
+      "headerColorWhite": false,
+      "animationBackground": "#3AACAD"
+    },
+    "notification": {
+      "icon": "./assets/icon.png"
+    }
+  }
+}
