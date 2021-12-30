@@ -2,7 +2,7 @@
   "expo": {
     "name": "お店アプリ（10339）",
     "slug": "salonapp10339",
-    "version": "1.0.0",
+    "version": "1.0.9",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -18,7 +18,7 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true,
+      "supportsTablet": false,
       "bundleIdentifier": "jp.epark.salonapp10339",
       "config": {
         "usesNonExemptEncryption": false,
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.5"
+      "buildNumber": "1.0.9"
     },
     "android": {
       "package": "jp.epark.salonapp10339",
-      "versionCode": 16,
+      "versionCode": 21,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
