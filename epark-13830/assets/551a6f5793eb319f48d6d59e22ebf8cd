@@ -1,0 +1,66 @@
+{
+  "expo": {
+    "name": "お店アプリ（13830）",
+    "slug": "salonapp13830",
+    "version": "1.0.11",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#21E84F"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "enabled": false
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "jp.epark.salonapp13830",
+      "config": {
+        "usesNonExemptEncryption": false,
+        "googleMapsApiKey": "AIzaSyB6rJOxJ5TvRMqXcZCv49Oy8EScg6nfKVQ"
+      },
+      "infoPlist": {
+        "LSApplicationQueriesSchemes": [
+          "googlechromes",
+          "comgooglemaps"
+        ],
+        "CFBundleLocalizations": [
+          "ja"
+        ],
+        "CFBundleDevelopmentRegion": "ja",
+        "CFBundleAllowMixedLocalizations": true
+      },
+      "buildNumber": "1.0.11"
+    },
+    "android": {
+      "package": "jp.epark.salonapp13830",
+      "versionCode": 2,
+      "googleServicesFile": "./google-services.json",
+      "softwareKeyboardLayoutMode": "pan",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyB6rJOxJ5TvRMqXcZCv49Oy8EScg6nfKVQ"
+        }
+      },
+      "useNextNotificationsApi": true
+    },
+    "locales": {
+      "ja": "./languages/ja.json"
+    },
+    "extra": {
+      "apiUrl": "https://dev.peakmanager.com",
+      "companyId": 13830,
+      "themeColor": "#21E84F",
+      "headerColorWhite": false,
+      "animationBackground": "#21E84F"
+    },
+    "notification": {
+      "icon": "./assets/icon.png"
+    }
+  }
+}
