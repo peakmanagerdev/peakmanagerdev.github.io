@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "お店アプリ（10339）",
-    "slug": "salonapp10339",
+    "name": "お店アプリ（13815）",
+    "slug": "salonapp13815",
     "version": "1.0.11",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
     "splash": {
       "resizeMode": "contain",
-      "backgroundColor": "#27AE60"
+      "backgroundColor": "#F0E68C"
     },
     "updates": {
       "fallbackToCacheTimeout": 0,
@@ -19,7 +19,7 @@
     ],
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "jp.epark.salonapp10339",
+      "bundleIdentifier": "jp.epark.salonapp13815",
       "config": {
         "usesNonExemptEncryption": false,
         "googleMapsApiKey": "AIzaSyBlfuVb50k1JAgDhUJA43iEAEEuOcgAg60"
@@ -38,8 +38,8 @@
       "buildNumber": "1.0.11"
     },
     "android": {
-      "package": "jp.epark.salonapp10339",
-      "versionCode": 23,
+      "package": "jp.epark.salonapp13815",
+      "versionCode": 16,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
@@ -54,10 +54,10 @@
     },
     "extra": {
       "apiUrl": "https://dev.peakmanager.com",
-      "companyId": 10339,
-      "themeColor": "#27AE60",
-      "headerColorWhite": false,
-      "animationBackground": "#27AE60"
+      "companyId": 13815,
+      "themeColor": "#FFA500",
+      "headerColorWhite": true,
+      "animationBackground": "#F0E68C"
     },
     "notification": {
       "icon": "./assets/icon.png"
