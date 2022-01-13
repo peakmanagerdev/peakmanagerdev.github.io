@@ -35,7 +35,7 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.05"
+      "buildNumber": "1.0.5.2"
     },
     "android": {
       "package": "jp.epark.salonappx0e0o1",
@@ -53,7 +53,7 @@
       "ja": "./languages/ja.json"
     },
     "extra": {
-      "apiUrl": "https://app-api.peakmanager.com",
+      "apiUrl": "https://before.peakmanager.com",
       "companyId": 16,
       "themeColor": "#A5D737",
       "headerColorWhite": false,
