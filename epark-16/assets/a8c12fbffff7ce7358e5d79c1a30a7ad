@@ -18,7 +18,7 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true,
+      "supportsTablet": false,
       "bundleIdentifier": "jp.epark.salonappx0e0o1",
       "config": {
         "usesNonExemptEncryption": false,
@@ -39,7 +39,7 @@
     },
     "android": {
       "package": "jp.epark.salonappx0e0o1",
-      "versionCode": 3,
+      "versionCode": 4,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
