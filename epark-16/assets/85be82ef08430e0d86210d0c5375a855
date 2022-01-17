@@ -35,7 +35,7 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.5.3"
+      "buildNumber": "1.0.5.5"
     },
     "android": {
       "package": "jp.epark.salonappx0e0o1",
