@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Re.Ra.Ku",
+    "name": "Ra.Ra.Ku Group",
     "slug": "salonappx0e0o1",
     "version": "1.0.6",
     "orientation": "portrait",
@@ -35,7 +35,7 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.6.2"
+      "buildNumber": "1.0.6.4"
     },
     "android": {
       "package": "jp.epark.salonappx0e0o1",
