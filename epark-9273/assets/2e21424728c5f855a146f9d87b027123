@@ -2,7 +2,7 @@
   "expo": {
     "name": "リフレッシュハンズ",
     "slug": "salonappq2c0r3",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.6"
+      "buildNumber": "1.0.7.1"
     },
     "android": {
       "package": "jp.epark.salonappq2c0r3",
-      "versionCode": 2,
+      "versionCode": 3,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
