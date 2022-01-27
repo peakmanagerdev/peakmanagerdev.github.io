@@ -2,7 +2,7 @@
   "expo": {
     "name": "リラクゼーションハウス癒",
     "slug": "salonappk0s0f1",
-    "version": "1.0.8",
+    "version": "1.0.6",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.8"
+      "buildNumber": "1.0.6"
     },
     "android": {
       "package": "jp.epark.salonappk0s0f1",
-      "versionCode": 10,
+      "versionCode": 3,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
@@ -56,7 +56,7 @@
       "apiUrl": "https://app-api.peakmanager.com",
       "companyId": 19288,
       "themeColor": "#FFADFF",
-      "headerColorWhite": true,
+      "headerColorWhite": false,
       "animationBackground": "#FFFFFF"
     },
     "notification": {
