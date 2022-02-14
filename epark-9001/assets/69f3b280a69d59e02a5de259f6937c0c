@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Relala",
+    "name": "Relala（リララ）",
     "slug": "salonappu7n3v0",
     "version": "1.0.8",
     "orientation": "portrait",
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.8"
+      "buildNumber": "1.0.8.4"
     },
     "android": {
       "package": "jp.epark.salonappu7n3v0",
-      "versionCode": 10,
+      "versionCode": 13,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
