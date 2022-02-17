@@ -22,7 +22,7 @@
       "bundleIdentifier": "jp.epark.salonapp10339",
       "config": {
         "usesNonExemptEncryption": false,
-        "googleMapsApiKey": "AIzaSyB6rJOxJ5TvRMqXcZCv49Oy8EScg6nfKVQ"
+        "googleMapsApiKey": "AIzaSyBSrAmuf5iPPPm-edgvN4oyDMLFwoipVtc"
       },
       "infoPlist": {
         "LSApplicationQueriesSchemes": [
@@ -35,16 +35,16 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.22"
+      "buildNumber": "1.0.22.3"
     },
     "android": {
       "package": "jp.epark.salonapp10339",
-      "versionCode": 54,
+      "versionCode": 57,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyB6rJOxJ5TvRMqXcZCv49Oy8EScg6nfKVQ"
+          "apiKey": "AIzaSyBSrAmuf5iPPPm-edgvN4oyDMLFwoipVtc"
         }
       },
       "useNextNotificationsApi": true
