@@ -1,0 +1,66 @@
+{
+  "expo": {
+    "name": "ALBAトータルケア",
+    "slug": "salonappg6h3n4",
+    "version": "1.0.8",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "enabled": false
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "jp.epark.salonappg6h3n4",
+      "config": {
+        "usesNonExemptEncryption": false,
+        "googleMapsApiKey": "AIzaSyDWWYiuOS3g28Cb4iiA0AhS0i_7Ju9opx8"
+      },
+      "infoPlist": {
+        "LSApplicationQueriesSchemes": [
+          "googlechromes",
+          "comgooglemaps"
+        ],
+        "CFBundleLocalizations": [
+          "ja"
+        ],
+        "CFBundleDevelopmentRegion": "ja",
+        "CFBundleAllowMixedLocalizations": true
+      },
+      "buildNumber": "1.0.8.3"
+    },
+    "android": {
+      "package": "jp.epark.salonappg6h3n4",
+      "versionCode": 12,
+      "googleServicesFile": "./google-services.json",
+      "softwareKeyboardLayoutMode": "pan",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDWWYiuOS3g28Cb4iiA0AhS0i_7Ju9opx8"
+        }
+      },
+      "useNextNotificationsApi": true
+    },
+    "locales": {
+      "ja": "./languages/ja.json"
+    },
+    "extra": {
+      "apiUrl": "https://app-api.peakmanager.com",
+      "companyId": 19903,
+      "themeColor": "#A9A9A9",
+      "headerColorWhite": false,
+      "animationBackground": "#000000"
+    },
+    "notification": {
+      "icon": "./assets/icon.png"
+    }
+  }
+}
