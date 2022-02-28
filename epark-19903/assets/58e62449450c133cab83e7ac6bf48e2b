@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.23.3"
+      "buildNumber": "1.0.23.4"
     },
     "android": {
       "package": "jp.epark.salonappg6h3n4",
-      "versionCode": 16,
+      "versionCode": 17,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
@@ -56,7 +56,7 @@
       "apiUrl": "https://app-api.peakmanager.com",
       "companyId": 19903,
       "themeColor": "#008000",
-      "headerColorWhite": false,
+      "headerColorWhite": true,
       "animationBackground": "#000000"
     },
     "notification": {
