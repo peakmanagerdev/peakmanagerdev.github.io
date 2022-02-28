@@ -2,13 +2,13 @@
   "expo": {
     "name": "お店アプリ（13808）",
     "slug": "salonapp13808",
-    "version": "1.0.11",
+    "version": "1.0.23",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
     "splash": {
       "resizeMode": "contain",
-      "backgroundColor": "#27AE60"
+      "backgroundColor": "#55AB67"
     },
     "updates": {
       "fallbackToCacheTimeout": 0,
@@ -22,7 +22,7 @@
       "bundleIdentifier": "jp.epark.salonapp13808",
       "config": {
         "usesNonExemptEncryption": false,
-        "googleMapsApiKey": "AIzaSyBlfuVb50k1JAgDhUJA43iEAEEuOcgAg60"
+        "googleMapsApiKey": "AIzaSyDWWYiuOS3g28Cb4iiA0AhS0i_7Ju9opx8"
       },
       "infoPlist": {
         "LSApplicationQueriesSchemes": [
@@ -35,16 +35,16 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.11"
+      "buildNumber": "1.0.23.3"
     },
     "android": {
       "package": "jp.epark.salonapp13808",
-      "versionCode": 22,
+      "versionCode": 26,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyBlfuVb50k1JAgDhUJA43iEAEEuOcgAg60"
+          "apiKey": "AIzaSyDWWYiuOS3g28Cb4iiA0AhS0i_7Ju9opx8"
         }
       },
       "useNextNotificationsApi": true
@@ -57,7 +57,7 @@
       "companyId": 13808,
       "themeColor": "#27AE60",
       "headerColorWhite": true,
-      "animationBackground": "#27AE60"
+      "animationBackground": "#55AB67"
     },
     "notification": {
       "icon": "./assets/icon.png"
