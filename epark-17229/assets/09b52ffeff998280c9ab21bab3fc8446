@@ -2,7 +2,7 @@
   "expo": {
     "name": "尼崎エーサロン",
     "slug": "salonappn6j1s4",
-    "version": "1.0.8",
+    "version": "1.0.23",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.8.8"
+      "buildNumber": "1.0.23.2"
     },
     "android": {
       "package": "jp.epark.salonappn6j1s4",
-      "versionCode": 17,
+      "versionCode": 19,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
