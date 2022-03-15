@@ -2,7 +2,7 @@
   "expo": {
     "name": "ALBAトータルケア",
     "slug": "salonappg6h3n4",
-    "version": "1.0.23",
+    "version": "1.0.24",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.23.12"
+      "buildNumber": "1.0.24"
     },
     "android": {
       "package": "jp.epark.salonappg6h3n4",
-      "versionCode": 25,
+      "versionCode": 26,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
