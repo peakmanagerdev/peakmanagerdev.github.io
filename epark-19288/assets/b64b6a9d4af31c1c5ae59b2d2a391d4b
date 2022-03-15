@@ -2,7 +2,7 @@
   "expo": {
     "name": "リラクゼーションハウス癒",
     "slug": "salonappk0s0f1",
-    "version": "1.0.8",
+    "version": "1.0.24",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.8.2"
+      "buildNumber": "1.0.24"
     },
     "android": {
       "package": "jp.epark.salonappk0s0f1",
-      "versionCode": 11,
+      "versionCode": 14,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
