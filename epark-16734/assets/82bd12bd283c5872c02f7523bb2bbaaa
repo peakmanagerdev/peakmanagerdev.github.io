@@ -2,7 +2,7 @@
   "expo": {
     "name": "ボディエステRURU RELAXATION",
     "slug": "salonappo7o1v1",
-    "version": "1.0.8",
+    "version": "1.0.24",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.8.3"
+      "buildNumber": "1.0.24.2"
     },
     "android": {
       "package": "jp.epark.salonappo7o1v1",
-      "versionCode": 12,
+      "versionCode": 15,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
