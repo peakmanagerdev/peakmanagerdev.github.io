@@ -8,7 +8,7 @@
     "userInterfaceStyle": "automatic",
     "splash": {
       "resizeMode": "contain",
-      "backgroundColor": "#000000"
+      "backgroundColor": "#1A1819"
     },
     "updates": {
       "fallbackToCacheTimeout": 0,
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.25"
+      "buildNumber": "1.0.25.3"
     },
     "android": {
       "package": "jp.epark.salonappu7r6z5",
-      "versionCode": 10,
+      "versionCode": 12,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
@@ -55,9 +55,9 @@
     "extra": {
       "apiUrl": "https://app-api.peakmanager.com",
       "companyId": 19888,
-      "themeColor": "#000000",
-      "headerColorWhite": false,
-      "animationBackground": "#000000"
+      "themeColor": "#1A1819",
+      "headerColorWhite": true,
+      "animationBackground": "#1A1819"
     },
     "notification": {
       "icon": "./assets/icon.png"
