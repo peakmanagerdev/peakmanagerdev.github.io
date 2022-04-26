@@ -8,7 +8,7 @@
     "userInterfaceStyle": "automatic",
     "splash": {
       "resizeMode": "contain",
-      "backgroundColor": "#E87B0E"
+      "backgroundColor": "#FFFFFF"
     },
     "updates": {
       "fallbackToCacheTimeout": 0,
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.27"
+      "buildNumber": "1.0.27.2"
     },
     "android": {
       "package": "jp.epark.salonapph1t0b1",
-      "versionCode": 15,
+      "versionCode": 16,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
@@ -57,7 +57,7 @@
       "companyId": 20663,
       "themeColor": "#E87B0E",
       "headerColorWhite": true,
-      "animationBackground": "#E87B0E"
+      "animationBackground": "#FFFFFF"
     },
     "notification": {
       "icon": "./assets/icon.png"
