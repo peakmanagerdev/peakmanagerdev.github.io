@@ -1,0 +1,66 @@
+{
+  "expo": {
+    "name": "東邦マッサージグループ",
+    "slug": "salonappa7z4s7",
+    "version": "1.0.27",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#203864"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "enabled": false
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "jp.epark.salonappa7z4s7",
+      "config": {
+        "usesNonExemptEncryption": false,
+        "googleMapsApiKey": "AIzaSyDWWYiuOS3g28Cb4iiA0AhS0i_7Ju9opx8"
+      },
+      "infoPlist": {
+        "LSApplicationQueriesSchemes": [
+          "googlechromes",
+          "comgooglemaps"
+        ],
+        "CFBundleLocalizations": [
+          "ja"
+        ],
+        "CFBundleDevelopmentRegion": "ja",
+        "CFBundleAllowMixedLocalizations": true
+      },
+      "buildNumber": "1.0.27"
+    },
+    "android": {
+      "package": "jp.epark.salonappa7z4s7",
+      "versionCode": 13,
+      "googleServicesFile": "./google-services.json",
+      "softwareKeyboardLayoutMode": "pan",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDWWYiuOS3g28Cb4iiA0AhS0i_7Ju9opx8"
+        }
+      },
+      "useNextNotificationsApi": true
+    },
+    "locales": {
+      "ja": "./languages/ja.json"
+    },
+    "extra": {
+      "apiUrl": "https://app-api.peakmanager.com",
+      "companyId": 20541,
+      "themeColor": "#203864",
+      "headerColorWhite": true,
+      "animationBackground": "#203864"
+    },
+    "notification": {
+      "icon": "./assets/icon.png"
+    }
+  }
+}
