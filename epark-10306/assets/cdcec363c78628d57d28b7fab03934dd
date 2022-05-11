@@ -1,6 +1,6 @@
 {
     "expo": {
-        "name": "お店アプリ（10306)0704",
+        "name": "お店アプリ（10306）",
         "slug": "salonapp10306",
         "version": "1.0.26",
         "orientation": "portrait",
@@ -35,11 +35,11 @@
                 "CFBundleDevelopmentRegion": "ja",
                 "CFBundleAllowMixedLocalizations": true
             },
-            "buildNumber": "1.0.26.48"
+            "buildNumber": "1.0.26.64"
         },
         "android": {
             "package": "jp.epark.salonapp10306",
-            "versionCode": 163,
+            "versionCode": 170,
             "googleServicesFile": "./google-services.json",
             "softwareKeyboardLayoutMode": "pan",
             "config": {
