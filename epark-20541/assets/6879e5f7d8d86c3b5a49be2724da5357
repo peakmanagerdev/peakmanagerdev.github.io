@@ -39,7 +39,7 @@
     },
     "android": {
       "package": "jp.epark.salonappa7z4s7",
-      "versionCode": 13,
+      "versionCode": 15,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
