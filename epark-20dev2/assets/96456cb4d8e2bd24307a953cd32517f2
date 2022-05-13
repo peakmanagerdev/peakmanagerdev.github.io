@@ -35,11 +35,11 @@
                 "CFBundleDevelopmentRegion": "ja",
                 "CFBundleAllowMixedLocalizations": true
             },
-            "buildNumber": "2.0.26.123"
+            "buildNumber": "1.0.26.124"
         },
         "android": {
             "package": "jp.epark.salonappc0s2b4dev2",
-            "versionCode": 123,
+            "versionCode": 124,
             "googleServicesFile": "./google-services.json",
             "softwareKeyboardLayoutMode": "pan",
             "config": {
