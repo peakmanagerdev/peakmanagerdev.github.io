@@ -2,7 +2,7 @@
   "expo": {
     "name": "リラクデモ（1548）",
     "slug": "salonapp1548",
-    "version": "1.0.8",
+    "version": "1.0.28",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.8.5"
+      "buildNumber": "1.0.28"
     },
     "android": {
       "package": "jp.epark.salonapp1548",
-      "versionCode": 14,
+      "versionCode": 16,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
