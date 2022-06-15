@@ -2,7 +2,7 @@
   "expo": {
     "name": "LUIRE",
     "slug": "salonappe2c2v8",
-    "version": "1.0.8",
+    "version": "1.0.31",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.8"
+      "buildNumber": "1.0.31"
     },
     "android": {
       "package": "jp.epark.salonappe2c2v8",
-      "versionCode": 10,
+      "versionCode": 22,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
