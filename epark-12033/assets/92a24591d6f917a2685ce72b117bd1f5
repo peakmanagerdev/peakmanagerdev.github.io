@@ -2,7 +2,7 @@
   "expo": {
     "name": "ハウスオブローゼ リラクゼーションサロン",
     "slug": "salonappj3j9n8",
-    "version": "1.0.8",
+    "version": "1.0.31",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.8.2"
+      "buildNumber": "1.0.31"
     },
     "android": {
       "package": "jp.epark.salonappj3j9n8",
-      "versionCode": 11,
+      "versionCode": 22,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
