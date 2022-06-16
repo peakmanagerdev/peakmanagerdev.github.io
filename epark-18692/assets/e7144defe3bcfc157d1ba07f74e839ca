@@ -2,7 +2,7 @@
   "expo": {
     "name": "Siel TOTAL BODY CARE",
     "slug": "salonappr3r8c4",
-    "version": "1.0.24",
+    "version": "1.0.31",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.24.2"
+      "buildNumber": "1.0.31"
     },
     "android": {
       "package": "jp.epark.salonappr3r8c4",
-      "versionCode": 13,
+      "versionCode": 21,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
