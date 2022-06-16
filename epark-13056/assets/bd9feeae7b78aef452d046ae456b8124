@@ -2,7 +2,7 @@
   "expo": {
     "name": "大垣リラクゼーションふるさと",
     "slug": "salonappf1n5l8",
-    "version": "1.0.24",
+    "version": "1.0.31",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.24.3"
+      "buildNumber": "1.0.31"
     },
     "android": {
       "package": "jp.epark.salonappf1n5l8",
-      "versionCode": 17,
+      "versionCode": 25,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
