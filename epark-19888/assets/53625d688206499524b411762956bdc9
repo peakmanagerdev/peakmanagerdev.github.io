@@ -2,7 +2,7 @@
   "expo": {
     "name": "Sunrise Beauty",
     "slug": "salonappu7r6z5",
-    "version": "1.0.25",
+    "version": "1.0.31",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.25.7"
+      "buildNumber": "1.0.31"
     },
     "android": {
       "package": "jp.epark.salonappu7r6z5",
-      "versionCode": 16,
+      "versionCode": 24,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
