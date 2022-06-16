@@ -2,7 +2,7 @@
   "expo": {
     "name": "マニュアルアプリ",
     "slug": "salonappg3b6i4",
-    "version": "1.0.30",
+    "version": "1.0.31",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.30.6"
+      "buildNumber": "1.0.31"
     },
     "android": {
       "package": "jp.epark.salonappg3b6i4",
-      "versionCode": 15,
+      "versionCode": 16,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
