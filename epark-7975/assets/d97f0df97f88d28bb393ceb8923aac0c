@@ -2,7 +2,7 @@
   "expo": {
     "name": "ちいさな整体院",
     "slug": "salonapph8b5p6",
-    "version": "1.0.8",
+    "version": "1.0.31",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.8.6"
+      "buildNumber": "1.0.31"
     },
     "android": {
       "package": "jp.epark.salonapph8b5p6",
-      "versionCode": 15,
+      "versionCode": 25,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
