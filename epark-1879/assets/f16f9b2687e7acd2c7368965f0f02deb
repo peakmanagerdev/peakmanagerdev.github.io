@@ -2,7 +2,7 @@
   "expo": {
     "name": "ほぐしやさん",
     "slug": "salonappf8q4j5",
-    "version": "1.0.8",
+    "version": "1.0.31",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.8.2"
+      "buildNumber": "1.0.31.2"
     },
     "android": {
       "package": "jp.epark.salonappf8q4j5",
-      "versionCode": 11,
+      "versionCode": 25,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
