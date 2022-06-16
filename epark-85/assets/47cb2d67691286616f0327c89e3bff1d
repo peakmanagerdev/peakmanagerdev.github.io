@@ -2,7 +2,7 @@
   "expo": {
     "name": "プライマリｰケア 新潟駅前店",
     "slug": "salonappg6a9o4",
-    "version": "1.0.30",
+    "version": "1.0.31",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.30"
+      "buildNumber": "1.0.31"
     },
     "android": {
       "package": "jp.epark.salonappg6a9o4",
-      "versionCode": 12,
+      "versionCode": 18,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
