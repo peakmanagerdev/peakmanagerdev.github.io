@@ -2,7 +2,7 @@
   "expo": {
     "name": "SHIMA.コンディショニングルーム",
     "slug": "salonappo0p0f3",
-    "version": "1.0.30",
+    "version": "1.0.31",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
         "CFBundleDevelopmentRegion": "ja",
         "CFBundleAllowMixedLocalizations": true
       },
-      "buildNumber": "1.0.30.3"
+      "buildNumber": "1.0.31"
     },
     "android": {
       "package": "jp.epark.salonappo0p0f3",
-      "versionCode": 29,
+      "versionCode": 35,
       "googleServicesFile": "./google-services.json",
       "softwareKeyboardLayoutMode": "pan",
       "config": {
