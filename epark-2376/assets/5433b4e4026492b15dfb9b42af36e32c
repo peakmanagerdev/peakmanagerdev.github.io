@@ -1,0 +1,66 @@
+{
+    "expo": {
+        "name": "ヘッドスパ専門店 匠 ~takumi~新宿店",
+        "slug": "salonappw8j4o2",
+        "version": "1.0.31",
+        "orientation": "portrait",
+        "icon": "./assets/icon.png",
+        "userInterfaceStyle": "automatic",
+        "splash": {
+            "resizeMode": "contain",
+            "backgroundColor": "#3A8DAA"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0,
+            "enabled": false
+        },
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "supportsTablet": false,
+            "bundleIdentifier": "jp.epark.salonappw8j4o2",
+            "config": {
+                "usesNonExemptEncryption": false,
+                "googleMapsApiKey": "AIzaSyDWWYiuOS3g28Cb4iiA0AhS0i_7Ju9opx8"
+            },
+            "infoPlist": {
+                "LSApplicationQueriesSchemes": [
+                    "googlechromes",
+                    "comgooglemaps"
+                ],
+                "CFBundleLocalizations": [
+                    "ja"
+                ],
+                "CFBundleDevelopmentRegion": "ja",
+                "CFBundleAllowMixedLocalizations": true
+            },
+            "buildNumber": "1.0.31"
+        },
+        "android": {
+            "package": "jp.epark.salonappw8j4o2",
+            "versionCode": 27,
+            "googleServicesFile": "./google-services.json",
+            "softwareKeyboardLayoutMode": "pan",
+            "config": {
+                "googleMaps": {
+                    "apiKey": "AIzaSyDWWYiuOS3g28Cb4iiA0AhS0i_7Ju9opx8"
+                }
+            },
+            "useNextNotificationsApi": true
+        },
+        "locales": {
+            "ja": "./languages/ja.json"
+        },
+        "extra": {
+            "apiUrl": "https://app-api.peakmanager.com",
+            "companyId": 2376,
+            "themeColor": "#3A8DAA",
+            "headerColorWhite": true,
+            "animationBackground": "#3A8DAA"
+        },
+        "notification": {
+            "icon": "./assets/icon.png"
+        }
+    }
+}
