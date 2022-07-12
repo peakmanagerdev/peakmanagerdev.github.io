@@ -35,11 +35,11 @@
                 "CFBundleDevelopmentRegion": "ja",
                 "CFBundleAllowMixedLocalizations": true
             },
-            "buildNumber": "1.0.40"
+            "buildNumber": "1.0.40.2"
         },
         "android": {
             "package": "jp.epark.salonapp10333dev",
-            "versionCode": 106,
+            "versionCode": 107,
             "googleServicesFile": "./google-services.json",
             "softwareKeyboardLayoutMode": "pan",
             "config": {
@@ -53,7 +53,7 @@
             "ja": "./languages/ja.json"
         },
         "extra": {
-            "apiUrl": "https://dev.peakmanager.com",
+            "apiUrl": "https://wizcast-fjg-dev.peakmanager.com",
             "companyId": 10333,
             "themeColor": "#FF2631",
             "headerColorWhite": true,
