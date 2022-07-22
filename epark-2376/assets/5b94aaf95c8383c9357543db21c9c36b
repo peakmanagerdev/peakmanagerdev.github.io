@@ -2,7 +2,7 @@
     "expo": {
         "name": "ヘッドスパ専門店 匠 ~takumi~新宿店",
         "slug": "salonappw8j4o2",
-        "version": "1.0.31",
+        "version": "1.0.32",
         "orientation": "portrait",
         "icon": "./assets/icon.png",
         "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
                 "CFBundleDevelopmentRegion": "ja",
                 "CFBundleAllowMixedLocalizations": true
             },
-            "buildNumber": "1.0.31"
+            "buildNumber": "1.0.32"
         },
         "android": {
             "package": "jp.epark.salonappw8j4o2",
-            "versionCode": 27,
+            "versionCode": 28,
             "googleServicesFile": "./google-services.json",
             "softwareKeyboardLayoutMode": "pan",
             "config": {
