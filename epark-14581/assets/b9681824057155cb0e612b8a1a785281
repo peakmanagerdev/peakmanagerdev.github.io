@@ -1,0 +1,66 @@
+{
+    "expo": {
+        "name": "お店アプリ（14581）",
+        "slug": "salonapp14581",
+        "version": "1.0.32",
+        "orientation": "portrait",
+        "icon": "./assets/icon.png",
+        "userInterfaceStyle": "automatic",
+        "splash": {
+            "resizeMode": "contain",
+            "backgroundColor": "#FFFFFF"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0,
+            "enabled": false
+        },
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "supportsTablet": false,
+            "bundleIdentifier": "jp.epark.salonapp14581",
+            "config": {
+                "usesNonExemptEncryption": false,
+                "googleMapsApiKey": "AIzaSyDWWYiuOS3g28Cb4iiA0AhS0i_7Ju9opx8"
+            },
+            "infoPlist": {
+                "LSApplicationQueriesSchemes": [
+                    "googlechromes",
+                    "comgooglemaps"
+                ],
+                "CFBundleLocalizations": [
+                    "ja"
+                ],
+                "CFBundleDevelopmentRegion": "ja",
+                "CFBundleAllowMixedLocalizations": true
+            },
+            "buildNumber": "1.0.32"
+        },
+        "android": {
+            "package": "jp.epark.salonapp14581",
+            "versionCode": 43,
+            "googleServicesFile": "./google-services.json",
+            "softwareKeyboardLayoutMode": "pan",
+            "config": {
+                "googleMaps": {
+                    "apiKey": "AIzaSyDWWYiuOS3g28Cb4iiA0AhS0i_7Ju9opx8"
+                }
+            },
+            "useNextNotificationsApi": true
+        },
+        "locales": {
+            "ja": "./languages/ja.json"
+        },
+        "extra": {
+            "apiUrl": "https://app-api.peakmanager.com",
+            "companyId": 14581,
+            "themeColor": "#99F8FF",
+            "headerColorWhite": false,
+            "animationBackground": "#FFFFFF"
+        },
+        "notification": {
+            "icon": "./assets/icon.png"
+        }
+    }
+}
