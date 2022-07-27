@@ -2,7 +2,7 @@
     "expo": {
         "name": "asian relax WaiTea",
         "slug": "salonappl0t6w8",
-        "version": "1.0.31",
+        "version": "1.0.32",
         "orientation": "portrait",
         "icon": "./assets/icon.png",
         "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
                 "CFBundleDevelopmentRegion": "ja",
                 "CFBundleAllowMixedLocalizations": true
             },
-            "buildNumber": "1.0.31.3"
+            "buildNumber": "1.0.32.3"
         },
         "android": {
             "package": "jp.epark.salonappl0t6w8",
-            "versionCode": 12,
+            "versionCode": 31,
             "googleServicesFile": "./google-services.json",
             "softwareKeyboardLayoutMode": "pan",
             "config": {
@@ -56,7 +56,7 @@
             "apiUrl": "https://app-api.peakmanager.com",
             "companyId": 1457,
             "themeColor": "#955651",
-            "headerColorWhite": true,
+            "headerColorWhite": false,
             "animationBackground": "#FFFFFF"
         },
         "notification": {
