@@ -1,0 +1,66 @@
+{
+    "expo": {
+        "name": "赤羽のちいさな整体院",
+        "slug": "salonapph8b5p6",
+        "version": "1.0.32",
+        "orientation": "portrait",
+        "icon": "./assets/icon.png",
+        "userInterfaceStyle": "automatic",
+        "splash": {
+            "resizeMode": "contain",
+            "backgroundColor": "#FFFFFF"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0,
+            "enabled": false
+        },
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "supportsTablet": false,
+            "bundleIdentifier": "jp.epark.salonapph8b5p6",
+            "config": {
+                "usesNonExemptEncryption": false,
+                "googleMapsApiKey": "AIzaSyDWWYiuOS3g28Cb4iiA0AhS0i_7Ju9opx8"
+            },
+            "infoPlist": {
+                "LSApplicationQueriesSchemes": [
+                    "googlechromes",
+                    "comgooglemaps"
+                ],
+                "CFBundleLocalizations": [
+                    "ja"
+                ],
+                "CFBundleDevelopmentRegion": "ja",
+                "CFBundleAllowMixedLocalizations": true
+            },
+            "buildNumber": "1.0.32.3"
+        },
+        "android": {
+            "package": "jp.epark.salonapph8b5p6",
+            "versionCode": 54,
+            "googleServicesFile": "./google-services.json",
+            "softwareKeyboardLayoutMode": "pan",
+            "config": {
+                "googleMaps": {
+                    "apiKey": "AIzaSyDWWYiuOS3g28Cb4iiA0AhS0i_7Ju9opx8"
+                }
+            },
+            "useNextNotificationsApi": true
+        },
+        "locales": {
+            "ja": "./languages/ja.json"
+        },
+        "extra": {
+            "apiUrl": "https://app-api.peakmanager.com",
+            "companyId": 7975,
+            "themeColor": "#4BB748",
+            "headerColorWhite": true,
+            "animationBackground": "#FFFFFF"
+        },
+        "notification": {
+            "icon": "./assets/icon.png"
+        }
+    }
+}
