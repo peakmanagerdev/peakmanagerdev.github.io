@@ -1,14 +1,14 @@
 {
     "expo": {
-        "name": "タイ古式マッサージ・アジアンヒーリング ワイガーデン",
+        "name": "ワイガーデン",
         "slug": "salonappx7d5x4",
-        "version": "1.0.31",
+        "version": "1.0.33",
         "orientation": "portrait",
         "icon": "./assets/icon.png",
         "userInterfaceStyle": "automatic",
         "splash": {
             "resizeMode": "contain",
-            "backgroundColor": "#003F7E"
+            "backgroundColor": "#FFFFFF"
         },
         "updates": {
             "fallbackToCacheTimeout": 0,
@@ -35,11 +35,11 @@
                 "CFBundleDevelopmentRegion": "ja",
                 "CFBundleAllowMixedLocalizations": true
             },
-            "buildNumber": "1.0.31.2"
+            "buildNumber": "1.0.33.2"
         },
         "android": {
             "package": "jp.epark.salonappx7d5x4",
-            "versionCode": 16,
+            "versionCode": 22,
             "googleServicesFile": "./google-services.json",
             "softwareKeyboardLayoutMode": "pan",
             "config": {
@@ -57,7 +57,7 @@
             "companyId": 1974,
             "themeColor": "#003F7E",
             "headerColorWhite": true,
-            "animationBackground": "#003F7E"
+            "animationBackground": "#FFFFFF"
         },
         "notification": {
             "icon": "./assets/icon.png"
