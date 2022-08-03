@@ -2,7 +2,7 @@
     "expo": {
         "name": "B-reset",
         "slug": "salonappc7g6u2",
-        "version": "1.0.32",
+        "version": "1.0.34",
         "orientation": "portrait",
         "icon": "./assets/icon.png",
         "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
                 "CFBundleDevelopmentRegion": "ja",
                 "CFBundleAllowMixedLocalizations": true
             },
-            "buildNumber": "1.0.32.2"
+            "buildNumber": "1.0.34.3"
         },
         "android": {
             "package": "jp.epark.salonappc7g6u2",
-            "versionCode": 11,
+            "versionCode": 14,
             "googleServicesFile": "./google-services.json",
             "softwareKeyboardLayoutMode": "pan",
             "config": {
