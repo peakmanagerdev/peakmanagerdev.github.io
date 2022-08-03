@@ -2,7 +2,7 @@
     "expo": {
         "name": "癒し処 こうみや",
         "slug": "salonappx5o4e3",
-        "version": "1.0.32",
+        "version": "1.0.34",
         "orientation": "portrait",
         "icon": "./assets/icon.png",
         "userInterfaceStyle": "automatic",
@@ -35,11 +35,11 @@
                 "CFBundleDevelopmentRegion": "ja",
                 "CFBundleAllowMixedLocalizations": true
             },
-            "buildNumber": "1.0.32.6"
+            "buildNumber": "1.0.34.2"
         },
         "android": {
             "package": "jp.epark.salonappx5o4e3",
-            "versionCode": 27,
+            "versionCode": 29,
             "googleServicesFile": "./google-services.json",
             "softwareKeyboardLayoutMode": "pan",
             "config": {
